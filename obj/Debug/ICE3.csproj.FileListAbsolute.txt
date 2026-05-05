@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\source\repos\ICE3\ICE3\bin\Debug\ICE3.exe.config
+C:\Users\lab_services_student\source\repos\ICE3\ICE3\bin\Debug\ICE3.exe
+C:\Users\lab_services_student\source\repos\ICE3\ICE3\bin\Debug\ICE3.pdb
+C:\Users\lab_services_student\source\repos\ICE3\ICE3\obj\Debug\ICE3.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\ICE3\ICE3\obj\Debug\ICE3.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\ICE3\ICE3\obj\Debug\ICE3.exe
+C:\Users\lab_services_student\source\repos\ICE3\ICE3\obj\Debug\ICE3.pdb
